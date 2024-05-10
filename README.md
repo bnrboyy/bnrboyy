@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Web Programmer
 -----------------------------
 
-I am currently working as a Web Developer, Web Programmer at Wynnsoft Solution company.
+01/2023-Current, I am working as a Web Developer/Web Programmer at Wynnsoft Solution company.
 
 * 🌍  I'm based in Khon Kaen, Thailand
 
