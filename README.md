@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nantachai Ruecha
 ========================================================================================================================================
 
-Web Developer, Web Programmer
+Web Developer, Web Programmer, Back-End Developer
 -----------------------------
 
 01/2023-Current, I am working as a Web Developer/Web Programmer at Wynnsoft Solution company.
